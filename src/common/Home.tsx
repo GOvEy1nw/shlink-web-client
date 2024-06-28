@@ -6,7 +6,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Card, Row } from 'reactstrap';
 import type { ServersMap } from '../servers/data';
 import { ServersListGroup } from '../servers/ServersListGroup';
-import { ShlinkLogo } from './img/ShlinkLogo';
+import { ShlinkLogo } from './img/wowvime-light.svg';
 import './Home.scss';
 
 interface HomeProps {

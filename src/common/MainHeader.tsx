@@ -8,7 +8,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler, NavItem, NavLink } from 'reactstrap';
 import type { FCWithDeps } from '../container/utils';
 import { componentFactory, useDependencies } from '../container/utils';
-import { ShlinkLogo } from './img/ShlinkLogo';
+import { ShlinkLogo } from './img/wowvime-light.svg';
 import './MainHeader.scss';
 
 type MainHeaderDeps = {
